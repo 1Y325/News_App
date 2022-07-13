@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 15446,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Passant Rabie",
+      "title": "Jay-Z and Jack Dorsey Launch Bitcoin Academy for New Generation of Crypto Bros",
+      "description": "Rapper and entrepreneur Shawn Carter, better known as Jay-Z, is bringing Bitcoin to the place where he grew up. On Thursday, Jay-Z and former Twitter CEO Jack Dorsey announced the launch of Bitcoin Academy, which will offer free classes on cryptocurrency for …",
+      "url": "https://gizmodo.com/jay-z-jack-dorsey-bitcoin-academy-1849040407",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/48fbb5e09973afbe730474c5cb0aadd4.jpg",
+      "publishedAt": "2022-06-09T19:45:00Z",
+      "content": "Rapper and entrepreneur Shawn Carter, better known as Jay-Z, is bringing Bitcoin to the place where he grew up. On Thursday, Jay-Z and former Twitter CEO Jack Dorsey announced the launch of Bitcoin A… [+2920 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Lucas Ropek",
+      "title": "Bitcoin Wasn't as Decentralized or Anonymous as Crypto Bros Told You, Study Finds",
+      "description": "A new study on bitcoin calls into question whether the digital currency is truly as decentralized and anonymous as its biggest devotees would have you believe. Read more...",
+      "url": "https://gizmodo.com/bitcoin-cryptocurrency-centralized-not-anonymous-study-1849029656",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d3390dc22b7788490c85b7ec69134874.jpg",
+      "publishedAt": "2022-06-08T11:00:00Z",
+      "content": "A new study on bitcoin calls into question whether the digital currency is truly as decentralized and anonymous as its biggest devotees would have you believe. \r\n Researchers from Baylor, Rice, and t… [+7343 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "El Salvador: The country where you can buy anything with Bitcoin",
+      "description": "The cryptocurrency crash is hurting many investors, including one country that has bet big on Bitcoin.",
+      "url": "https://www.bbc.co.uk/news/technology-61813845",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EB8F/production/_125430306_977646d4-a885-485f-b124-4aceaa1a4b98.jpg",
+      "publishedAt": "2022-06-16T01:15:20Z",
+      "content": "By Joe TidyCyber reporter \r\nCryptocurrencies have continued to tumble this week with billions wiped from the value of tokens like Bitcoin. The crash is affecting investors worldwide, including the go… [+6815 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Philip Wang and Tara Subramaniam, CNN",
+      "title": "El Salvador's Bitcoin investment suffers amid crypto meltdown",
+      "description": "El Salvador has embraced Bitcoin like no other country, with the government purchasing hundreds of coins last year as it announced that the cryptocurrency would become legal tender.",
+      "url": "https://www.cnn.com/2022/06/14/americas/el-salvador-bitcoin-losses-intl-latam/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220522194357-salvadorenos-bitcoin-confianza-devaluacion-merlin-delcid-mirador-mundial-cnn-pkg-00022610-super-tease.png",
+      "publishedAt": "2022-06-15T00:38:11Z",
+      "content": "(CNN)El Salvador has embraced Bitcoin like no other country, with the government purchasing hundreds of coins last year as it announced that the cryptocurrency would become legal tender. \r\nBut as the… [+842 chars]"
+    },
+    
+   
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Crypto hedge fund Three Arrows Capital addresses liquidation rumours - Reuters",
+      "description": "Cryptocurrency hedge fund Three Arrows Capital said on Wednesday it was committed to working things out, seemingly addressing social media chatter that it is facing liquidation issues.",
+      "url": "https://www.reuters.com/markets/funds/crypto-hedge-fund-three-arrows-capital-addresses-liquidation-rumours-2022-06-15/",
+      "urlToImage": "https://www.reuters.com/resizer/JV9_2z7D2Ppeuej6tQZPYYnu69M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YLIKWS7CWVKU5APZEJUFPV3R2U.jpg",
+      "publishedAt": "2022-06-15T12:31:00Z",
+      "content": "SINGAPORE, June 15 (Reuters) - Cryptocurrency hedge fund Three Arrows Capital said on Wednesday it was committed to working things out, seemingly addressing social media chatter that it is facing liq… [+684 chars]"
+    }
+  ]
+}
